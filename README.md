@@ -83,6 +83,27 @@
 
 
 ## Reinforcement Learning
+* [CS234: Reinforcement Learning](https://web.stanford.edu/class/cs234/index.html) *Course*
+* [CS 285 at UC Berkeley Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) *Course*
+* [Simple Reinforcement Learning with Tensorflow series](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0) *Article*
+* [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/) *HTML Page*
+* [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver) *Video + Slides*
+* [REINFORCEMENT LEARNING AND OPTIMAL CONTROL](http://web.mit.edu/dimitrib/www/RLbook.html) *Web Page*
+* [Learning by Reinforcement and Optimal Control](http://pierrelucbacon.com/teaching/reinforcement-learning-and-optimal-control/) *Course*
+* [CS 598 Statistical Reinforcement Learning](http://nanjiang.cs.illinois.edu/cs598/) *Course*
+* [A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/deep-rl-course/) *HTML Page*
+ * [Thomas Simonini Medium Articles](https://thomassimonini.medium.com/) *Article* 
+ * [Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/rltheorybook_AJKS.pdf) *Book*
+ * [Offline Reinforcement Learning Workshop](https://offline-rl-neurips.github.io/resources.html) *Web Page*
+ * [DEEP REINFORCEMENT LEARNING](https://arxiv.org/pdf/1810.06339.pdf) *Paper*
+ * [IntroRL A course on reinforcement learning](https://amfarahmand.github.io/IntroRL/) *Course*
+ * [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/pdf/2005.01643.pdf) *Paper*
+ * [Deep Reinforcement Learning - Julien Vitay](https://julien-vitay.net/deeprl/) *HTML Page*
+ * [RLpapers: List of Reinforcement Learning papers and code](https://tylertaewook.github.io/blog/papers/2021/04/17/RLPapers.html) *Web Page*
+ * [Lil'Log: Lilian OpenAI Researcher Blog](https://lilianweng.github.io/lil-log/) *Web Page*
+ * [Reinforcement Learning Course at ASU, Spring, 2021](https://www.youtube.com/watch?v=TdsEtXGflZQ&list=PLmH30BG15SIp79JRJ-MVF12uvB1qPtPzn&ab_channel=DimitriBertsekas) *Video*
+* [Investigating Variational Gaussian Process State-Space Models with Gaussian Likelihood] *Paper*
+* [Bandit Algorithms](https://tor-lattimore.com/downloads/book/book.pdf) *Book*
 
 
 
