@@ -17,22 +17,23 @@
 <br>
 
 * [Mathematics (General)](#mathematics)
-* [Theoretical CS]
-* [Algorithms]
-* [Scientific Computing]
-* [Information Theory]
-* [Operation Research]
+* [Theoretical CS](#theoretical-cs)
+* [Algorithms](#algorithms)
+* [Scientific Computing](#scientific-computing)
+* [Information Theory](#information-theory)
+* [Operation Research](#operation-research)
 <br>
 
-* [Jax]
-* [Pytorch]
-* [Julia]
-* [Numpy]
+* [Jax](#jax)
+* [Pytorch](#pytorch)
+* [Julia](#julia)
+* [Numpy](#numpy)
 * [Pandas](#pandas)
 * [Vim] 
+* [Linux](#linux)
 <br>
 
-* [Mata-Resource]
+* [Mata-Resources](#meta-resources)
 
 ## ML
 * [Mathematics for Machine Learning](https://mml-book.github.io/) *Book*
@@ -131,6 +132,8 @@
 * [NLP from Scratch with PyTorch, fastai, and HuggingFace](https://amarsaini.github.io/Epoching-Blog/jupyter/nlp/pytorch/fastai/huggingface/2021/06/27/NLP-from-Scratch-with-PyTorch-FastAI-and-HuggingFace.html) *Web Page*
 * [Fine-tuning a BERT model](https://www.tensorflow.org/official_models/fine_tuning_bert) *Code*
 * [Multi-label Text Classification using BERT – The Mighty Transformer](https://medium.com/huggingface/multi-label-text-classification-using-bert-the-mighty-transformer-69714fa3fb3d) *Code*
+* [Simple PyTorch Transformer Example with Greedy Decoding](https://colab.research.google.com/drive/1swXWW5sOLW8zSZBaQBYcGQkQ_Bje_bmI#scrollTo=b6eCpl-ne7tj) *Code*
+* [10 NLP Resources: Books, papers, blog posts, lectures, hands-on courses. From Linguistics to Transformers (Twitter Thread)](https://twitter.com/suzatweet/status/1415020519259316229) *Tweet*
 
 ## Computer Vision
 * [CS 4476-B Computer Vision](https://www.cc.gatech.edu/~hays/compvision/) *Course*
@@ -201,7 +204,58 @@
 * [Applied Discrete Structures](http://discretemath.org/ads-latex/ads.pdf) *Book*
 * [HOMOTOPY TYPE THEORY](https://hottheory.files.wordpress.com/2012/08/hott2.pdf) *Book*
 
+## Theoretical CS
+* [Introduction to Theoretical Computer Science](https://introtcs.org/public/) *HTML Page*
+* [Unravelling Complexity: The Life and Work of Gregory Chaitin: Chapter 1 (Preview)])(https://www.worldscientific.com/doi/pdf/10.1142/9789811200076_0001) *Book*
+
+## Algorithms
+* [Design and Analysis of Algorithms: Blog by Rashid Bin Muhammad](https://www.personal.kent.edu/~rmuhamma/Algorithms/algorithm.html) **
+* [The Algorists](https://www.thealgorists.com/Algo) *HTML Page*
+* [Cracking the Coding Interview (6th edition) Python Solutions](https://github.com/StBogdan/CTCI_python) *Github*
+* [Algorithms by Jeff Erickson at UIUC](https://jeffe.cs.illinois.edu/teaching/algorithms/) *Book*
+* [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html) *HTML Page*
+* [Big O Notation - explained as easily as possible](https://thatcomputerscientist.com/big-o-notation-explained-as-easily-as-possible) *Article*
+* [Codeforces: Algorithm Category](https://a2oj.com/Categories.html) *Web Page*
+* [Red Blob Games: Interactive visual explanations of math and algorithms](https://www.redblobgames.com/) *HTML Page + Interactive*
+
+## Scientific Computing
+* [Neuromatch Academy](https://academy.neuromatch.io/) *Web Page*
+* [Mathematical Tools for Neuroscience (Neurobio 212 at Harvard)](https://github.com/ebatty/MathToolsforNeuroscience) *Github*
+* [Computational Linear Algebra for Coders by Rachel Thomas](https://github.com/fastai/numerical-linear-algebra) *Github*
+* [Introduction to Computational Thinking at MIT](https://computationalthinking.mit.edu/Fall20/#introduction_to_computational_thinking) *Course*
+* [COMPUTATIONAL ALGEBRAIC TOPOLOGY LECTURE NOTES](http://people.maths.ox.ac.uk/nanda/cat/TDANotes.pdf) *Book*
+* [COS 302 / SML 305: Mathematics for Numerical Computing and Machine Learning at Princeton](https://www.cs.princeton.edu/courses/archive/spring21/cos302/#assignments) *Course* 
+* [Quantitative Economics with Python](https://python.quantecon.org/intro.html) *HTML Page*
+
+
+## Information Theory
+* [Information Theory: A Tutorial Introduction](https://arxiv.org/pdf/1802.05968.pdf) *Paper*
+
+## Operation Research
+* [Operations Research APPLICATIONS AND ALGORITHMS](https://itslearningakarmazyan.files.wordpress.com/2015/09/operation-research-aplications-and-algorithms.pdf) *Book*
+
+## Jax
+* [ML Optimizers from scratch using JAX](https://github.com/shreyansh26/ML-Optimizers-JAX) *Github*
+
+## Pytorch
+* [Deep Learning with Pytorch](https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG&ab_channel=deeplizard) *Video*
+
+## Julia
+* [Parallel Computing and Scientific Machine Learning](https://www.youtube.com/watch?v=3IoqyXmAAkU&list=PLCAl7tjCwWyGjdzOOnlbGnVNZk0kB8VSa&ab_channel=ParallelComputingandScientificMachineLearning) *Video* 
+* [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://github.com/h-Klok/StatsWithJuliaBook) *Github*
+
+## Numpy
+* [Scipy Lecture Notes using numpy]() *HTML Page*
+* [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) *HTML Page*
+* [Confetti.ai numpy](https://www.confetti.ai/exams/10/start) *HTML Page*
 
 ## Pandas
 * [pandas: powerful Python data analysis toolkit](https://pandas.pydata.org/pandas-docs/stable/pandas.pdf) *Book*
+
+## Linux
+* [Comprehensive Linux Cheatsheet](https://gto76.github.io/linux-cheatsheet/) *Web Page*
+
+## Meta Resources
+* [Colin S. Gordon's Electronic Resources](https://www.cs.drexel.edu/~csgordon/books.html) *Web Page*
+* [A Guide to Machine Intelligence Research Institute](https://intelligence.org/research-guide/) *Web Page*
 
