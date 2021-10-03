@@ -1,4 +1,4 @@
-# Gateway_to_ML_Research
+# Gateway to ML Research
 
 ## Table of contents:
 
@@ -260,6 +260,7 @@
 
 ## Vim
 * [A Vim Guide for Advanced Users](https://thevaluable.dev/vim-advanced/) *Web Page*
+* [Learn Vim (the Smart Way)](https://github.com/iggredible/Learn-Vim) *Github*
 
 ## Linux
 * [Comprehensive Linux Cheatsheet](https://gto76.github.io/linux-cheatsheet/) *Web Page*
