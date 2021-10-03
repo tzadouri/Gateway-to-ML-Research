@@ -29,7 +29,7 @@
 * [Julia](#julia)
 * [Numpy](#numpy)
 * [Pandas](#pandas)
-* [Vim] 
+* [Vim](#vim)
 * [Linux](#linux)
 <br>
 
@@ -59,7 +59,7 @@
 * [CS229: Machine Learning](http://cs229.stanford.edu/) *Web Page*
 * [A Gentle Introduction to Tensors](https://www.ese.wustl.edu/~nehorai/Porat_A_Gentle_Introduction_to_Tensors_2014.pdf) *Book*
 * [MACHINE LEARNING A First Course for Engineers and Scientists](http://smlbook.org/book/sml-book-draft-latest.pdf) *Book*
-
+* [AI Explorables: Big ideas in machine learning, simply explained](https://pair.withgoogle.com/explorables/) *Web Page*
 
 ## Deep Learning
 * [Deep Learning by Yann LeCun](https://atcold.github.io/pytorch-Deep-Learning/) *HTML Page*
@@ -84,6 +84,7 @@
 * [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/F21/index.html) *Course*
 * [A Beginner's Guide to the Mathematics of Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf) *Paper*
 * [Physics-based Deep Learning](https://www.physicsbaseddeeplearning.org/overview-burgers-forw.html) *HTML Page*
+* [The Fourier transform is a neural network](https://sidsite.com/posts/fourier-nets/) *Web Page*
 
 
 ## Reinforcement Learning
@@ -166,7 +167,7 @@
 * [Sketching as a Tool for Numerical Linear Algebra](https://www.cs.cmu.edu/afs/cs/user/dwoodruf/www/wNow3.pdf) *Book*
 * [Linear Algebra Done Right](http://ce.sharif.edu/courses/97-98/1/ce425-1/resources/root/Books/Linear%20Algebra%20Done%20Right.pdf) *Book*
 * [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/index.html) *HTML Page*
-
+* [The Art of Linear Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) *Github*
 
 ## Optimization
 * [An overview of gradient descent optimization algorithms by SEBASTIAN RUDER](https://ruder.io/optimizing-gradient-descent/) *Article*
@@ -199,6 +200,8 @@
 * [BIOSTAT M280/BIOMATH 280/STAT M230: Statistical Computing at UCLA](https://hua-zhou.github.io/teaching/biostatm280-2016winter/BiostatM280-2016-Winter-LecNotes.pdf) *Book*
 * [The Probability and Statistics Cookbook](http://statistics.zone/) *Book*
 * [An Introduction to Probabilistic modeling](https://ethz.ch/content/dam/ethz/special-interest/bsse/borgwardt-lab/documents/slides/CA10_probabilitytheory.pdf) *Slides*
+* [A Concrete Introduction to Probability (using Python)](https://github.com/norvig/pytudes/blob/main/ipynb/Probability.ipynb) *Github*
+
 
 
 ## Mathematics
@@ -254,6 +257,9 @@
 
 ## Pandas
 * [pandas: powerful Python data analysis toolkit](https://pandas.pydata.org/pandas-docs/stable/pandas.pdf) *Book*
+
+## Vim
+* [A Vim Guide for Advanced Users](https://thevaluable.dev/vim-advanced/) *Web Page*
 
 ## Linux
 * [Comprehensive Linux Cheatsheet](https://gto76.github.io/linux-cheatsheet/) *Web Page*
