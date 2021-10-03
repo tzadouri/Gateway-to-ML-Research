@@ -57,6 +57,9 @@
 * [Probabilistic Machine Learning: An Introduction: 2nd Edition](https://probml.github.io/pml-book/book1.html) *Book*
 * [Machine Learning Mastery](https://machinelearningmastery.com/start-here/#python) *HTML Page*
 * [CS229: Machine Learning](http://cs229.stanford.edu/) *Web Page*
+* [A Gentle Introduction to Tensors](https://www.ese.wustl.edu/~nehorai/Porat_A_Gentle_Introduction_to_Tensors_2014.pdf) *Book*
+* [MACHINE LEARNING A First Course for Engineers and Scientists](http://smlbook.org/book/sml-book-draft-latest.pdf) *Book*
+
 
 ## Deep Learning
 * [Deep Learning by Yann LeCun](https://atcold.github.io/pytorch-Deep-Learning/) *HTML Page*
