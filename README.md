@@ -256,6 +256,7 @@
 * [Scipy Lecture Notes using numpy]() *HTML Page*
 * [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) *HTML Page*
 * [Confetti.ai numpy](https://www.confetti.ai/exams/10/start) *HTML Page*
+* [Numpy Internals](https://www.youtube.com/watch?v=HuWj2_lcm-I&ab_channel=MarkSaroufim) *Video*
 
 ## Pandas
 * [pandas: powerful Python data analysis toolkit](https://pandas.pydata.org/pandas-docs/stable/pandas.pdf) *Book*
