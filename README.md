@@ -289,5 +289,5 @@
 * [From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) *Github*
 * [Programming, Math, Science](https://github.com/bobeff/programming-math-science) *Github*
 * [Blogs and websites on Machine Learning and Deep learning](https://github.com/benthecoder/ml-blogs-that-are-worth-reading) *Github*
-* []()*Github*
+
 
