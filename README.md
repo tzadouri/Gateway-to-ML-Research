@@ -2,7 +2,7 @@
 
 ## Table of contents:
 
-* [ML](#ml)
+* [Machine Learning](#machine-learning)
 * [Deep Learning](#deep-learning)
 * [Reinforcement Learning](#reinforcement-learning)
 * [NLP](#nlp)
@@ -35,7 +35,7 @@
 
 * [Mata-Resources](#meta-resources)
 
-## ML
+## Machine Learning
 * [Mathematics for Machine Learning](https://mml-book.github.io/) *Book*
 * [An Introduction to Statistical Learning](https://www.statlearning.com/) *Book*
 * [Foundations of Applied Mathematics](https://foundations-of-applied-mathematics.github.io/) *Book*
@@ -60,6 +60,8 @@
 * [A Gentle Introduction to Tensors](https://www.ese.wustl.edu/~nehorai/Porat_A_Gentle_Introduction_to_Tensors_2014.pdf) *Book*
 * [MACHINE LEARNING A First Course for Engineers and Scientists](http://smlbook.org/book/sml-book-draft-latest.pdf) *Book*
 * [AI Explorables: Big ideas in machine learning, simply explained](https://pair.withgoogle.com/explorables/) *Web Page*
+* [CS 5785 Applied Machine Learning by Volodymyr Kuleshov at Cornell Tech](https://canvas.cornell.edu/courses/19987/) *Course*
+  * [Video Series of the course](https://www.youtube.com/watch?v=vcE9WGbi4QY&list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83&ab_channel=VolodymyrKuleshov) *Video*
 
 ## Deep Learning
 * [Deep Learning by Yann LeCun](https://atcold.github.io/pytorch-Deep-Learning/) *HTML Page*
