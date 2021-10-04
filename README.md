@@ -26,6 +26,7 @@
 
 * [Jax](#jax)
 * [Pytorch](#pytorch)
+* [TensorFlow](#tensorflow)
 * [Julia](#julia)
 * [Numpy](#numpy)
 * [Pandas](#pandas)
@@ -62,6 +63,7 @@
 * [AI Explorables: Big ideas in machine learning, simply explained](https://pair.withgoogle.com/explorables/) *Web Page*
 * [CS 5785 Applied Machine Learning by Volodymyr Kuleshov at Cornell Tech](https://canvas.cornell.edu/courses/19987/) *Course*
   * [Video Series of the course](https://www.youtube.com/watch?v=vcE9WGbi4QY&list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83&ab_channel=VolodymyrKuleshov) *Video*
+* [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) *Github* 
 
 ## Deep Learning
 * [Deep Learning by Yann LeCun](https://atcold.github.io/pytorch-Deep-Learning/) *HTML Page*
@@ -87,6 +89,8 @@
 * [A Beginner's Guide to the Mathematics of Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf) *Paper*
 * [Physics-based Deep Learning](https://www.physicsbaseddeeplearning.org/overview-burgers-forw.html) *HTML Page*
 * [The Fourier transform is a neural network](https://sidsite.com/posts/fourier-nets/) *Web Page*
+* [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) *Github*
+* [labml.ai Deep Learning Paper Implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) *Github*
 
 
 ## Reinforcement Learning
@@ -128,6 +132,10 @@
 * [DQN in Pytorch from Scratch](https://www.youtube.com/watch?v=WHRQUZrxxGw&list=PLd_Oyt6lAQ8Q0MaTG41iwPdy9GQmoz8dG&index=2&ab_channel=JackofSome) *Video*
 * [CS 277: Control and Reinforcement Learning by Roy Fox](https://royf.org/crs/W21/CS277/) *Course*
 * [A Tutorial on Thompson Sampling](https://arxiv.org/pdf/1707.02038.pdf) *Paper*
+* [Reinforcement Learning (RL) Cheatsheet](https://github.com/udacity/rl-cheatsheet/blob/master/cheatsheet.pdf) *Github*
+* [reinforcement-learning-discord-wiki](https://github.com/andyljones/reinforcement-learning-discord-wiki/wiki) *Github*
+* [RL links for tutorials/videos/blog/posts/open-source projects/libraries on twitter thread](https://twitter.com/FeryalMP/status/1407272291579355136) *Twitter*
+* [Minimal RL Algorithm Implementations](https://github.com/seungeunrho/minimalRL) *Github*
 
 ## NLP
 * [An Introduction to Language](http://www.wjh.harvard.edu/~pal/pdfs/pdfs/7th.pdf) *Book*
@@ -140,12 +148,15 @@
 * [Multi-label Text Classification using BERT – The Mighty Transformer](https://medium.com/huggingface/multi-label-text-classification-using-bert-the-mighty-transformer-69714fa3fb3d) *Code*
 * [Simple PyTorch Transformer Example with Greedy Decoding](https://colab.research.google.com/drive/1swXWW5sOLW8zSZBaQBYcGQkQ_Bje_bmI#scrollTo=b6eCpl-ne7tj) *Code*
 * [10 NLP Resources: Books, papers, blog posts, lectures, hands-on courses. From Linguistics to Transformers (Twitter Thread)](https://twitter.com/suzatweet/status/1415020519259316229) *Tweet*
+* [A Survey of Surveys (NLP & ML)](https://github.com/NiuTrans/ABigSurvey) *Github*
+* [NLP Tutorial](https://github.com/graykode/nlp-tutorial) *Github*
 
 ## Computer Vision
 * [CS 4476-B Computer Vision](https://www.cc.gatech.edu/~hays/compvision/) *Course*
 * [Beginner’s Guide to Computer Vision](https://medium.com/readers-writers-digest/beginners-guide-to-computer-vision-23606224b720) *Article*
 * [Pre-Trained Models for Computer Vision](https://github.com/balavenkatesh3322/CV-pretrained-model) *Github*
 * [Computer Vision Notebooks](https://diegoinacio.github.io/computer-vision-notebooks-page/) *Code*
+* [Computer Vision Recipes](https://github.com/microsoft/computervision-recipes) *Github*
 
 ## Generative Modeling
 * [Deep Generative Models CS236: Course Notes by Aditya Grover](https://deepgenerativemodels.github.io/notes/) *Web Page*
@@ -225,6 +236,7 @@
 * [Big O Notation - explained as easily as possible](https://thatcomputerscientist.com/big-o-notation-explained-as-easily-as-possible) *Article*
 * [Codeforces: Algorithm Category](https://a2oj.com/Categories.html) *Web Page*
 * [Red Blob Games: Interactive visual explanations of math and algorithms](https://www.redblobgames.com/) *HTML Page + Interactive*
+* [The Algorithms - Python](https://github.com/TheAlgorithms/Python) *Github*
 
 ## Scientific Computing
 * [Neuromatch Academy](https://academy.neuromatch.io/) *Web Page*
@@ -247,6 +259,9 @@
 
 ## Pytorch
 * [Deep Learning with Pytorch](https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG&ab_channel=deeplizard) *Video*
+
+## TensorFlow
+* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) *Github*
 
 ## Julia
 * [Parallel Computing and Scientific Machine Learning](https://www.youtube.com/watch?v=3IoqyXmAAkU&list=PLCAl7tjCwWyGjdzOOnlbGnVNZk0kB8VSa&ab_channel=ParallelComputingandScientificMachineLearning) *Video* 
@@ -271,4 +286,8 @@
 ## Meta Resources
 * [Colin S. Gordon's Electronic Resources](https://www.cs.drexel.edu/~csgordon/books.html) *Web Page*
 * [A Guide to Machine Intelligence Research Institute](https://intelligence.org/research-guide/) *Web Page*
+* [From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) *Github*
+* [Programming, Math, Science](https://github.com/bobeff/programming-math-science) *Github*
+* [Blogs and websites on Machine Learning and Deep learning](https://github.com/benthecoder/ml-blogs-that-are-worth-reading) *Github*
+* []()*Github*
 
