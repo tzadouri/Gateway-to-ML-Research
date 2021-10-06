@@ -113,7 +113,7 @@
  * [RLpapers: List of Reinforcement Learning papers and code](https://tylertaewook.github.io/blog/papers/2021/04/17/RLPapers.html) *Web Page*
  * [Lil'Log: Lilian OpenAI Researcher Blog](https://lilianweng.github.io/lil-log/) *Web Page*
  * [Reinforcement Learning Course at ASU, Spring, 2021](https://www.youtube.com/watch?v=TdsEtXGflZQ&list=PLmH30BG15SIp79JRJ-MVF12uvB1qPtPzn&ab_channel=DimitriBertsekas) *Video*
-* [Investigating Variational Gaussian Process State-Space Models with Gaussian Likelihood] *Paper*
+* [Investigating Variational Gaussian Process State-Space Models with Gaussian Likelihood](https://cundy.me/publication/cundy-2015-variational/cundy-2015-variational.pdf) *Paper*
 * [Bandit Algorithms](https://tor-lattimore.com/downloads/book/book.pdf) *Book*
 * [CS 498 Reinforcement Learning (S21) by Nan Jiang at UIUC](https://nanjiang.cs.illinois.edu/cs498/)*Course*
 * [Comp-767 Reinforcement Learning by Doina Precup at McGill](https://www.cs.mcgill.ca/~dprecup/courses/RL/lectures.html) *Course*
