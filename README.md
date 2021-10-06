@@ -92,6 +92,7 @@
 * [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) *Github*
 * [labml.ai Deep Learning Paper Implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) *Github*
 * [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html) *Web Page*
+* [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org/) *Web Page*
 
 
 ## Reinforcement Learning
