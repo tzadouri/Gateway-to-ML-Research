@@ -91,6 +91,7 @@
 * [The Fourier transform is a neural network](https://sidsite.com/posts/fourier-nets/) *Web Page*
 * [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) *Github*
 * [labml.ai Deep Learning Paper Implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) *Github*
+* [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html) *Web Page*
 
 
 ## Reinforcement Learning
