@@ -152,6 +152,8 @@
 * [10 NLP Resources: Books, papers, blog posts, lectures, hands-on courses. From Linguistics to Transformers (Twitter Thread)](https://twitter.com/suzatweet/status/1415020519259316229) *Tweet*
 * [A Survey of Surveys (NLP & ML)](https://github.com/NiuTrans/ABigSurvey) *Github*
 * [NLP Tutorial](https://github.com/graykode/nlp-tutorial) *Github*
+* [A Hands-on Introduction to Natural Language Processing (NLP)](https://www.youtube.com/watch?v=vpJ_Iw63cFU&ab_channel=Prof.GhassemiLecturesandTutorials) *Course + Video*
+   * [Github link](https://github.com/deskool/nlp-class) *Github*
 
 ## Computer Vision
 * [CS 4476-B Computer Vision](https://www.cc.gatech.edu/~hays/compvision/) *Course*
@@ -216,6 +218,8 @@
 * [The Probability and Statistics Cookbook](http://statistics.zone/) *Book*
 * [An Introduction to Probabilistic modeling](https://ethz.ch/content/dam/ethz/special-interest/bsse/borgwardt-lab/documents/slides/CA10_probabilitytheory.pdf) *Slides*
 * [A Concrete Introduction to Probability (using Python)](https://github.com/norvig/pytudes/blob/main/ipynb/Probability.ipynb) *Github*
+* [Introduction to Probability for Data Science by Stanley H. Chan](https://probability4datascience.com/index.html) *Book*
+
 
 
 
