@@ -232,7 +232,7 @@
 
 ## Theoretical CS
 * [Introduction to Theoretical Computer Science](https://introtcs.org/public/) *HTML Page*
-* [Unravelling Complexity: The Life and Work of Gregory Chaitin: Chapter 1 (Preview)])(https://www.worldscientific.com/doi/pdf/10.1142/9789811200076_0001) *Book*
+* [Unravelling Complexity: The Life and Work of Gregory Chaitin: Chapter 1 (Preview)](https://www.worldscientific.com/doi/pdf/10.1142/9789811200076_0001) *Book*
 
 ## Algorithms
 * [Design and Analysis of Algorithms: Blog by Rashid Bin Muhammad](https://www.personal.kent.edu/~rmuhamma/Algorithms/algorithm.html) **
