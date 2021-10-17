@@ -186,6 +186,8 @@
 * [Linear Algebra Done Right](http://ce.sharif.edu/courses/97-98/1/ce425-1/resources/root/Books/Linear%20Algebra%20Done%20Right.pdf) *Book*
 * [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/index.html) *HTML Page*
 * [The Art of Linear Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) *Github*
+* [Linear Algebra Review and Reference](http://cs229.stanford.edu/section/cs229-linalg.pdf) *Paper*
+* [Linear Algebra and Matrix Calculus Review](https://www.cs.cmu.edu/~zkolter/course/15-884/linalg.pdf) *Slides*
 
 ## Optimization
 * [An overview of gradient descent optimization algorithms by SEBASTIAN RUDER](https://ruder.io/optimizing-gradient-descent/) *Article*
@@ -198,6 +200,7 @@
 * [EE 227C (Spring 2018) Convex Optimization and Approximation by Mortiz Hardt at UC Berkeley](https://ee227c.github.io/) *Course*
 * [Convex Optimization Overview](http://cs229.stanford.edu/section/cs229-cvxopt.pdf) *Paper*
 * [Recent Advances in Non-Convex Optimization and its Implications to Learning by Anima Anadkumar](http://tensorlab.cms.caltech.edu/users/anima/slides/icml2016-tutorial.pdf) *Slides*
+* [Convex Optimization Overview](http://cs229.stanford.edu/section/cs229-cvxopt.pdf) *Paper*
 
 ## Statistics and Probability 
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12_toc.pdf) *Book*
@@ -220,6 +223,7 @@
 * [An Introduction to Probabilistic modeling](https://ethz.ch/content/dam/ethz/special-interest/bsse/borgwardt-lab/documents/slides/CA10_probabilitytheory.pdf) *Slides*
 * [A Concrete Introduction to Probability (using Python)](https://github.com/norvig/pytudes/blob/main/ipynb/Probability.ipynb) *Github*
 * [Introduction to Probability for Data Science by Stanley H. Chan](https://probability4datascience.com/index.html) *Book*
+* [Review of Probability Theory](http://cs229.stanford.edu/section/cs229-prob.pdf) *Paper*
 
 
 
