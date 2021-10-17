@@ -235,7 +235,7 @@
 * [HOMOTOPY TYPE THEORY](https://hottheory.files.wordpress.com/2012/08/hott2.pdf) *Book*
 * [A computational perspective on set theory by Terence Tao](https://terrytao.wordpress.com/2010/03/19/a-computational-perspective-on-set-theory/) *Blog*
 * [Set Theory and Foundations of Mathematics](http://settheory.net/) *Web Page*
-* [Set Theory in Computer Science A Gentle Introduction to Mathematical Modeling] (https://courses.engr.illinois.edu/cs477/sp2010/book.pdf) *Book*
+* [Set Theory in Computer Science A Gentle Introduction to Mathematical Modeling](https://courses.engr.illinois.edu/cs477/sp2010/book.pdf) *Book*
 * [Set Theory Symbols](https://mathvault.ca/hub/higher-math/math-symbols/set-theory-symbols/) *Web Page*
 
 ## Theoretical CS
