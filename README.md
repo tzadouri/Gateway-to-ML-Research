@@ -235,7 +235,7 @@
 * [Unravelling Complexity: The Life and Work of Gregory Chaitin: Chapter 1 (Preview)](https://www.worldscientific.com/doi/pdf/10.1142/9789811200076_0001) *Book*
 
 ## Algorithms
-* [Design and Analysis of Algorithms: Blog by Rashid Bin Muhammad](https://www.personal.kent.edu/~rmuhamma/Algorithms/algorithm.html) **
+* [Design and Analysis of Algorithms: Blog by Rashid Bin Muhammad](https://www.personal.kent.edu/~rmuhamma/Algorithms/algorithm.html) *Web Page*
 * [The Algorists](https://www.thealgorists.com/Algo) *HTML Page*
 * [Cracking the Coding Interview (6th edition) Python Solutions](https://github.com/StBogdan/CTCI_python) *Github*
 * [Algorithms by Jeff Erickson at UIUC](https://jeffe.cs.illinois.edu/teaching/algorithms/) *Book*
