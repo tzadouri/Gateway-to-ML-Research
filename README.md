@@ -262,6 +262,7 @@
 * [COMPUTATIONAL ALGEBRAIC TOPOLOGY LECTURE NOTES](http://people.maths.ox.ac.uk/nanda/cat/TDANotes.pdf) *Book*
 * [COS 302 / SML 305: Mathematics for Numerical Computing and Machine Learning at Princeton](https://www.cs.princeton.edu/courses/archive/spring21/cos302/#assignments) *Course* 
 * [Quantitative Economics with Python](https://python.quantecon.org/intro.html) *HTML Page*
+* [Computational Optimal Transport](https://arxiv.org/pdf/1803.00567.pdf) *Book*
 
 
 ## Information Theory
