@@ -35,6 +35,7 @@
 <br>
 
 * [Mata-Resources](#meta-resources)
+* [Blog](#blog)
 
 ## Machine Learning
 * [Mathematics for Machine Learning](https://mml-book.github.io/) *Book*
@@ -309,4 +310,6 @@
 * [Programming, Math, Science](https://github.com/bobeff/programming-math-science) *Github*
 * [Blogs and websites on Machine Learning and Deep learning](https://github.com/benthecoder/ml-blogs-that-are-worth-reading) *Github*
 
+## Blog
+* [Christopher Olah's Blog: Various DL Tutorials](https://colah.github.io/) *Blog*
 
