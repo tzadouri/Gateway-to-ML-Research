@@ -156,6 +156,7 @@
 * [A Hands-on Introduction to Natural Language Processing (NLP)](https://www.youtube.com/watch?v=vpJ_Iw63cFU&ab_channel=Prof.GhassemiLecturesandTutorials) *Course + Video*
    * [Github link](https://github.com/deskool/nlp-class) *Github*
 * [Resources for Understanding The Original Transformer Paper](https://www.reddit.com/r/MachineLearning/comments/pkedi4/d_resources_for_understanding_the_original/) *Reddit*
+* [awesome-nlp:A curated list of resources dedicated to Natural Language Processing](https://github.com/keon/awesome-nlp) *Github*
 
 ## Computer Vision
 * [CS 4476-B Computer Vision](https://www.cc.gatech.edu/~hays/compvision/) *Course*
