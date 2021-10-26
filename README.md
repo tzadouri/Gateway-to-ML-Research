@@ -139,6 +139,7 @@
 * [reinforcement-learning-discord-wiki](https://github.com/andyljones/reinforcement-learning-discord-wiki/wiki) *Github*
 * [RL links for tutorials/videos/blog/posts/open-source projects/libraries on twitter thread](https://twitter.com/FeryalMP/status/1407272291579355136) *Twitter*
 * [Minimal RL Algorithm Implementations](https://github.com/seungeunrho/minimalRL) *Github*
+* [RL-Adventure-2: Policy Gradients](https://github.com/higgsfield/RL-Adventure-2) *Github*
 
 ## NLP
 * [An Introduction to Language](http://www.wjh.harvard.edu/~pal/pdfs/pdfs/7th.pdf) *Book*
