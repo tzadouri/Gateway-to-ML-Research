@@ -297,11 +297,12 @@
 * [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://github.com/h-Klok/StatsWithJuliaBook) *Github*
 
 ## Numpy
-* [Scipy Lecture Notes using numpy]() *HTML Page*
+* [Scipy Lecture Notes using numpy](http://scipy-lectures.org/) *HTML Page*
 * [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) *HTML Page*
 * [Confetti.ai numpy](https://www.confetti.ai/exams/10/start) *HTML Page*
 * [Numpy Internals](https://www.youtube.com/watch?v=HuWj2_lcm-I&ab_channel=MarkSaroufim) *Video*
 * [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/) *Post*
+* [101 NumPy Exercises for Data Analysis (Python)](https://www.machinelearningplus.com/python/101-numpy-exercises-python/) *Post*
 
 ## Pandas
 * [pandas: powerful Python data analysis toolkit](https://pandas.pydata.org/pandas-docs/stable/pandas.pdf) *Book*
