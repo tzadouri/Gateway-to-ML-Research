@@ -245,6 +245,7 @@
 * [Set Theory in Computer Science A Gentle Introduction to Mathematical Modeling](https://courses.engr.illinois.edu/cs477/sp2010/book.pdf) *Book*
 * [Set Theory Symbols](https://mathvault.ca/hub/higher-math/math-symbols/set-theory-symbols/) *Web Page*
 * [The Web of Mathematics — Interactive Chart](https://www.cantorsparadise.com/the-web-of-mathematics-a-data-visualisation-baa5d478d908#c903) *Article*
+* [Mathematics for Computer Science: MIT Courseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/) *Course + Book*
 
 ## Theoretical CS
 * [Introduction to Theoretical Computer Science](https://introtcs.org/public/) *HTML Page*
