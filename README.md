@@ -140,6 +140,7 @@
 * [RL links for tutorials/videos/blog/posts/open-source projects/libraries on twitter thread](https://twitter.com/FeryalMP/status/1407272291579355136) *Twitter*
 * [Minimal RL Algorithm Implementations](https://github.com/seungeunrho/minimalRL) *Github*
 * [RL-Adventure-2: Policy Gradients](https://github.com/higgsfield/RL-Adventure-2) *Github*
+* [Algorithms for Decision Making](https://algorithmsbook.com/files/dm.pdf) *Book*
 
 ## NLP
 * [An Introduction to Language](http://www.wjh.harvard.edu/~pal/pdfs/pdfs/7th.pdf) *Book*
@@ -237,7 +238,6 @@
 
 
 
-
 ## Mathematics
 * [SOME FUNDAMENTAL THEOREMS IN MATHEMATICS by OLIVER KNILL](https://people.math.harvard.edu/~knill/graphgeometry/papers/fundamental.pdf) *Book*
 * [Upper-Division Course Notes: Numerical Analysis, Optimization, Group Theory, and Rings/Fields ](https://sites.uci.edu/seulipl/teaching/upper-division-courses/) *Course*
@@ -264,6 +264,7 @@
 * [Codeforces: Algorithm Category](https://a2oj.com/Categories.html) *Web Page*
 * [Red Blob Games: Interactive visual explanations of math and algorithms](https://www.redblobgames.com/) *HTML Page + Interactive*
 * [The Algorithms - Python](https://github.com/TheAlgorithms/Python) *Github*
+* [A guide to learning algorithms](https://github.com/labuladong/fucking-algorithm/tree/english) *Github*
 
 ## Scientific Computing
 * [Neuromatch Academy](https://academy.neuromatch.io/) *Web Page*
@@ -288,6 +289,7 @@
 ## Pytorch
 * [Deep Learning with Pytorch](https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG&ab_channel=deeplizard) *Video*
 * [Pytorch Tutorial](https://github.com/yunjey/pytorch-tutorial) *Github*
+* [PyTorch internals](http://blog.ezyang.com/2019/05/pytorch-internals/) *Post*
 
 ## TensorFlow
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) *Github*
