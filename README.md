@@ -163,6 +163,7 @@
 * [Natural Language Processing (guest lecture by Sasha Rush): Presentation Scribe Notes](https://windowsontheory.org/2021/04/03/natural-language-processing-guest-lecture-by-sasha-rush/) *WebPage*
 * [spaCy Tutorial to Learn and Master Natural Language Processing (NLP)](https://medium.com/analytics-vidhya/spacy-tutorial-to-learn-and-master-natural-language-processing-nlp-db6703d0a751) *Post*
 * [NLP from Scratch with PyTorch, fastai, and HuggingFace](https://amarsaini.github.io/Epoching-Blog/jupyter/nlp/pytorch/fastai/huggingface/2021/06/27/NLP-from-Scratch-with-PyTorch-FastAI-and-HuggingFace.html) *Blog*
+* [BERT Explained: A Complete Guide with Theory and Tutorial](https://towardsml.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/) *Post*
 
 ## Computer Vision
 * [CS 4476-B Computer Vision](https://www.cc.gatech.edu/~hays/compvision/) *Course*
