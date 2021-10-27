@@ -164,6 +164,7 @@
 * [spaCy Tutorial to Learn and Master Natural Language Processing (NLP)](https://medium.com/analytics-vidhya/spacy-tutorial-to-learn-and-master-natural-language-processing-nlp-db6703d0a751) *Post*
 * [NLP from Scratch with PyTorch, fastai, and HuggingFace](https://amarsaini.github.io/Epoching-Blog/jupyter/nlp/pytorch/fastai/huggingface/2021/06/27/NLP-from-Scratch-with-PyTorch-FastAI-and-HuggingFace.html) *Blog*
 * [BERT Explained: A Complete Guide with Theory and Tutorial](https://towardsml.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/) *Post*
+* [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/) *Post*
 
 ## Computer Vision
 * [CS 4476-B Computer Vision](https://www.cc.gatech.edu/~hays/compvision/) *Course*
@@ -327,4 +328,5 @@
 
 ## Blog
 * [Christopher Olah's Blog: Various DL Tutorials](https://colah.github.io/) *Blog*
+* [Jay Alammar: Visualizing machine learning one concept at a time](https://jalammar.github.io/) *Blog*
 
