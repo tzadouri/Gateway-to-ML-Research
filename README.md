@@ -64,7 +64,8 @@
 * [AI Explorables: Big ideas in machine learning, simply explained](https://pair.withgoogle.com/explorables/) *Web Page*
 * [CS 5785 Applied Machine Learning by Volodymyr Kuleshov at Cornell Tech](https://canvas.cornell.edu/courses/19987/) *Course*
   * [Video Series of the course](https://www.youtube.com/watch?v=vcE9WGbi4QY&list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83&ab_channel=VolodymyrKuleshov) *Video*
-* [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) *Github* 
+* [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) *Github*
+
 
 ## Deep Learning
 * [Deep Learning by Yann LeCun](https://atcold.github.io/pytorch-Deep-Learning/) *HTML Page*
@@ -254,6 +255,7 @@
 * [Set Theory Symbols](https://mathvault.ca/hub/higher-math/math-symbols/set-theory-symbols/) *Web Page*
 * [The Web of Mathematics — Interactive Chart](https://www.cantorsparadise.com/the-web-of-mathematics-a-data-visualisation-baa5d478d908#c903) *Article*
 * [Mathematics for Computer Science: MIT Courseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/) *Course + Book*
+* [Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-deep.pdf) *Book* 
 
 ## Theoretical CS
 * [Introduction to Theoretical Computer Science](https://introtcs.org/public/) *HTML Page*
