@@ -167,6 +167,7 @@
 * [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/) *Post*
 * [The Annotated Transformer by Alexander M. Rush](https://princeton-nlp.github.io/cos484/readings/the-annotated-transformer.pdf) *Paper*
 * [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/pdf/2002.12327v1.pdf) *Paper*
+* [NLP Tutorial: Implementation of NLP models](https://github.com/graykode/nlp-tutorial) *Github*
 
 ## Computer Vision
 * [CS 4476-B Computer Vision](https://www.cc.gatech.edu/~hays/compvision/) *Course*
