@@ -273,6 +273,7 @@
 * [Red Blob Games: Interactive visual explanations of math and algorithms](https://www.redblobgames.com/) *HTML Page + Interactive*
 * [The Algorithms - Python](https://github.com/TheAlgorithms/Python) *Github*
 * [A guide to learning algorithms](https://github.com/labuladong/fucking-algorithm/tree/english) *Github*
+* [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) *Book*
 
 ## Scientific Computing
 * [Neuromatch Academy](https://academy.neuromatch.io/) *Web Page*
