@@ -256,6 +256,7 @@
 * [The Web of Mathematics — Interactive Chart](https://www.cantorsparadise.com/the-web-of-mathematics-a-data-visualisation-baa5d478d908#c903) *Article*
 * [Mathematics for Computer Science: MIT Courseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/) *Course + Book*
 * [Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-deep.pdf) *Book* 
+* [Graph Theory and Additive Combinatorics by Yufei Zhao(MIT)](https://www.dropbox.com/sh/6ashj34jk6i905n/AAAhThbmPXvJcYOHS0IU2cQJa/gtacbook.pdf) *Book*
 
 ## Theoretical CS
 * [Introduction to Theoretical Computer Science](https://introtcs.org/public/) *HTML Page*
