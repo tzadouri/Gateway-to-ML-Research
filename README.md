@@ -65,6 +65,7 @@
 * [CS 5785 Applied Machine Learning by Volodymyr Kuleshov at Cornell Tech](https://canvas.cornell.edu/courses/19987/) *Course*
   * [Video Series of the course](https://www.youtube.com/watch?v=vcE9WGbi4QY&list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83&ab_channel=VolodymyrKuleshov) *Video*
 * [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) *Github*
+* [Machine Learning at Berkeley Reading List](https://ml.berkeley.edu/reading-list/) *WebPage*
 
 
 ## Deep Learning
