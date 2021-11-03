@@ -66,6 +66,7 @@
   * [Video Series of the course](https://www.youtube.com/watch?v=vcE9WGbi4QY&list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83&ab_channel=VolodymyrKuleshov) *Video*
 * [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) *Github*
 * [Machine Learning at Berkeley Reading List](https://ml.berkeley.edu/reading-list/) *WebPage*
+* [CS294-158-SP20 Deep Unsupervised Learning by Pieter Abbeel(UC Berkeley)](https://sites.google.com/view/berkeley-cs294-158-sp20/home) *Course *
 
 
 ## Deep Learning
