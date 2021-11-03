@@ -67,7 +67,7 @@
 * [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) *Github*
 * [Machine Learning at Berkeley Reading List](https://ml.berkeley.edu/reading-list/) *WebPage*
 * [CS294-158-SP20 Deep Unsupervised Learning by Pieter Abbeel(UC Berkeley)](https://sites.google.com/view/berkeley-cs294-158-sp20/home) *Course *
-
+* [Technion EE 046202 - Unsupervised Learning and Data Analysis](https://github.com/taldatech/ee046202-unsupervised-learning-data-analysis) *Github + Course*
 
 ## Deep Learning
 * [Deep Learning by Yann LeCun](https://atcold.github.io/pytorch-Deep-Learning/) *HTML Page*
