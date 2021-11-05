@@ -246,6 +246,7 @@
 * [A Concrete Introduction to Probability (using Python)](https://github.com/norvig/pytudes/blob/main/ipynb/Probability.ipynb) *Github*
 * [Introduction to Probability for Data Science by Stanley H. Chan](https://probability4datascience.com/index.html) *Book*
 * [Review of Probability Theory](http://cs229.stanford.edu/section/cs229-prob.pdf) *Paper*
+* [36-401 Modern Regression(CMU)](http://www.stat.cmu.edu/~larry/=stat401/) *Course*
 
 
 
