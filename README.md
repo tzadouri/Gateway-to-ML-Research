@@ -284,6 +284,10 @@
 * [The Algorithms - Python](https://github.com/TheAlgorithms/Python) *Github*
 * [A guide to learning algorithms](https://github.com/labuladong/fucking-algorithm/tree/english) *Github*
 * [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) *Book*
+* [Intro Data Structures(CMU)](https://www.cs.cmu.edu/~mjs/121/index.html) *Course*
+* [Dave Mount's Data Structures Lecture Notes](http://www.cs.umd.edu/~mount/420/Lects/420lects.pdf) *Paper*
+* [Dave Mount's Algorithm Lecture Notes:Design and Analysis of Computer Algorithms](http://www.cs.umd.edu/~mount/451/Lects/451lects.pdf) *Paper*
+* [15-859: Algorithms for Big Data by David Woodruff(CMU)](https://www.cs.cmu.edu/~dwoodruf/teaching/15859-fall20/index.html) *Course*
 
 ## Scientific Computing
 * [Neuromatch Academy](https://academy.neuromatch.io/) *Web Page*
