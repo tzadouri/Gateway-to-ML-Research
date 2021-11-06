@@ -69,6 +69,7 @@
 * [CS294-158-SP20 Deep Unsupervised Learning by Pieter Abbeel(UC Berkeley)](https://sites.google.com/view/berkeley-cs294-158-sp20/home) *Course*
 * [Technion EE 046202 - Unsupervised Learning and Data Analysis](https://github.com/taldatech/ee046202-unsupervised-learning-data-analysis) *Github + Course*
 * [ICML 2020 Tutorial on Submodular Optimization: From Discrete to Continuous and Back](http://iid.yale.edu/icml/icml-20.md/) *WebPage*
+* [10-708 PGM - Probabilistic Graphical Models by Eric Xing(CMU)](https://www.cs.cmu.edu/~epxing/Class/10708-19/) *Course*
 
 ## Deep Learning
 * [Deep Learning by Yann LeCun](https://atcold.github.io/pytorch-Deep-Learning/) *HTML Page*
