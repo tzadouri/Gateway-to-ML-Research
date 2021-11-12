@@ -147,6 +147,7 @@
 * [Minimal RL Algorithm Implementations](https://github.com/seungeunrho/minimalRL) *Github*
 * [RL-Adventure-2: Policy Gradients](https://github.com/higgsfield/RL-Adventure-2) *Github*
 * [Algorithms for Decision Making](https://algorithmsbook.com/files/dm.pdf) *Book*
+* [Tutorial: Multi-Agent Learning by DeepMind](https://www.karltuyls.net/wp-content/uploads/2020/06/MA-DM-ICML-ACAI.pdf) *Slides*
 
 ## NLP
 * [An Introduction to Language](http://www.wjh.harvard.edu/~pal/pdfs/pdfs/7th.pdf) *Book*
