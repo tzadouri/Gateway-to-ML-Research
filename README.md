@@ -335,6 +335,7 @@
 * [Numpy Internals](https://www.youtube.com/watch?v=HuWj2_lcm-I&ab_channel=MarkSaroufim) *Video*
 * [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/) *Post*
 * [101 NumPy Exercises for Data Analysis (Python)](https://www.machinelearningplus.com/python/101-numpy-exercises-python/) *Post*
+* [Numpy Tools](https://github.com/ageron/handson-ml2/blob/master/tools_numpy.ipynb) *Github*
 
 ## Pandas
 * [pandas: powerful Python data analysis toolkit](https://pandas.pydata.org/pandas-docs/stable/pandas.pdf) *Book*
