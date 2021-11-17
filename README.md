@@ -202,6 +202,7 @@
 * [Why There is not Statistical Test for Confounding, Why Many Think There is, and Why They are Almost Right by Judea Pearl](https://ftp.cs.ucla.edu/pub/stat_ser/R256.pdf) *Paper*
 * [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html#causal-inference-for-the-brave-and-true) *HTML Page*
 * [Counterfactual Data-Fusion for Online Reinforcement Learners by Judea Pearl](https://ftp.cs.ucla.edu/pub/stat_ser/r471-reprint.pdf) *Paper*
+* [The Art and Science of Cause and Effect by Judea Pearl](http://bayes.cs.ucla.edu/BOOK-2K/causality2-epilogue.pdf) *Paper*
 
 ## Linear Algebra
 * [Introduction to Applied Linear Algebra Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/vmls.pdf) *Book*
