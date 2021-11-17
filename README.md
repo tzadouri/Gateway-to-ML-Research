@@ -314,6 +314,7 @@
 
 ## Jax
 * [ML Optimizers from scratch using JAX](https://github.com/shreyansh26/ML-Optimizers-JAX) *Github*
+* [Curated list of awesome JAX libraries, projects, and other resources](https://github.com/n2cholas/awesome-jax) *Github*
 
 ## Pytorch
 * [Deep Learning with Pytorch](https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG&ab_channel=deeplizard) *Video*
