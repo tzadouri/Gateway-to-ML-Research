@@ -322,6 +322,7 @@
 * [Deep Learning with Pytorch](https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG&ab_channel=deeplizard) *Video*
 * [Pytorch Tutorial](https://github.com/yunjey/pytorch-tutorial) *Github*
 * [PyTorch internals](http://blog.ezyang.com/2019/05/pytorch-internals/) *Post*
+* [PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll) *Github*
 
 ## TensorFlow
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) *Github*
