@@ -258,6 +258,7 @@
 * [Introduction to Probability for Data Science by Stanley H. Chan](https://probability4datascience.com/index.html) *Book*
 * [Review of Probability Theory](http://cs229.stanford.edu/section/cs229-prob.pdf) *Paper*
 * [36-401 Modern Regression(CMU)](http://www.stat.cmu.edu/~larry/=stat401/) *Course*
+* [Regression, Fire, and Dangerous Things (1/3)](https://elevanth.org/blog/2021/06/15/regression-fire-and-dangerous-things-1-3/) *WebPage*
 
 
 
@@ -282,6 +283,7 @@
 * [Computational Complexity: A Modern Approach](https://theory.cs.princeton.edu/complexity/book.pdf) *Book*
 * [15-251 Great Ideas in Theoretical Computer Science(CMU)](https://www.cs.cmu.edu/~15251/schedule.html) *Course*
 * [Why Philosophers Should Care About Computational Complexity](https://arxiv.org/pdf/1108.1791.pdf) *Paper*
+* [Theoretical Computer Science Cheat Sheet](https://www.tug.org/texshowcase/cheat.pdf) *Paper*
 
 ## Algorithms
 * [Design and Analysis of Algorithms: Blog by Rashid Bin Muhammad](https://www.personal.kent.edu/~rmuhamma/Algorithms/algorithm.html) *Web Page*
