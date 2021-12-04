@@ -32,6 +32,7 @@
 * [Pandas](#pandas)
 * [Vim](#vim)
 * [Linux](#linux)
+* [Systems](#systems)
 <br>
 
 * [Mata-Resources](#meta-resources)
@@ -357,6 +358,9 @@
 
 ## Linux
 * [Comprehensive Linux Cheatsheet](https://gto76.github.io/linux-cheatsheet/) *Web Page*
+
+## Systems
+* [CS 149 PARALLEL COMPUTING (Stanford)](http://35.227.169.186/cs149/fall21) *Course* 
 
 ## Meta Resources
 * [Colin S. Gordon's Electronic Resources](https://www.cs.drexel.edu/~csgordon/books.html) *Web Page*
