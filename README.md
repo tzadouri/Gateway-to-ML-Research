@@ -361,6 +361,7 @@
 
 ## Systems
 * [CS 149 PARALLEL COMPUTING (Stanford)](http://35.227.169.186/cs149/fall21) *Course* 
+* [CS 143 Compilers](https://web.stanford.edu/class/cs143/) *Course*
 
 ## Meta Resources
 * [Colin S. Gordon's Electronic Resources](https://www.cs.drexel.edu/~csgordon/books.html) *Web Page*
