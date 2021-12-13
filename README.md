@@ -234,6 +234,7 @@
 * [ECE 236B: Convex Opimization(UCLA)](http://www.seas.ucla.edu/~vandenbe/ee236b/ee236b.html) *Course*
 * [ECE 236C: Optimization methods for large-scale systems(UCLA)](http://www.seas.ucla.edu/~vandenbe/ee236c.html) *Course*
 * [ICML 2020 Tutorial on Submodular Optimization](http://iid.yale.edu/icml/icml-20.md/) *WebPage*
+* [Combinatorial Optimization: Theory and Algorithms](https://www.mathematik.uni-muenchen.de/~kpanagio/KombOpt/book.pdf) *Book*
 
 
 ## Statistics and Probability 
