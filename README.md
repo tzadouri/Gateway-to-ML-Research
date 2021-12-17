@@ -103,6 +103,7 @@
 * [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org/) *Web Page*
 * [The Mathematical Foundations of Manifold Learning by Luke Melas-Kyriazi(Harvard): Undergraduate Thesis](https://arxiv.org/pdf/2011.01307.pdf) *Paper*
 * [MiniTorch: diy teaching library for machine learning engineers by Sasha Rush(Cornell Tech)](https://minitorch.github.io/index.html) *WebPage*
+* [Yet another backpropagation tutorial by Boaz Barak](https://windowsontheory.org/2020/11/03/yet-another-backpropagation-tutorial/) *WebPage*
 
 
 ## Reinforcement Learning
