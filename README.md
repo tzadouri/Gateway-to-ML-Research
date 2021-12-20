@@ -181,6 +181,7 @@
 * [NLP Tutorial: Implementation of NLP models](https://github.com/graykode/nlp-tutorial) *Github*
 * [10 of the best resources to help you learn about the attention mechanism & Transformer network](https://twitter.com/iScienceLuvr/status/1471032149100797954) *Twitter*
 * [Attention is all you need" implementation from scratch in PyTorch. A Twitter thread](https://twitter.com/abhi1thakur/status/1470406419786698761) *Twitter*
+* [CS224n: Natural Language Processing with Deep Learning (Stanford)](https://web.stanford.edu/class/cs224n/) *Course*
 
 ## Computer Vision
 * [CS 4476-B Computer Vision](https://www.cc.gatech.edu/~hays/compvision/) *Course*
