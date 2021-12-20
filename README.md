@@ -222,6 +222,7 @@
 * [The Art of Linear Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) *Github*
 * [Linear Algebra Review and Reference](http://cs229.stanford.edu/section/cs229-linalg.pdf) *Paper*
 * [Linear Algebra and Matrix Calculus Review](https://www.cs.cmu.edu/~zkolter/course/15-884/linalg.pdf) *Slides*
+* [Introduction to Linear Algebra by Gilbert Strang](https://github.com/S-Ngigi/ML/blob/master/Books/Linear%20Algebra/Gilbert%20Strang%20-%20Introduction%20to%20Linear%20Algebra%20(2016%2C%20Wellesley-Cambridge%20Press)%20(1).pdf) *Book*
 
 ## Optimization
 * [An overview of gradient descent optimization algorithms by SEBASTIAN RUDER](https://ruder.io/optimizing-gradient-descent/) *Article*
