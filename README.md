@@ -72,6 +72,7 @@
 * [ICML 2020 Tutorial on Submodular Optimization: From Discrete to Continuous and Back](http://iid.yale.edu/icml/icml-20.md/) *WebPage*
 * [10-708 PGM - Probabilistic Graphical Models by Eric Xing(CMU)](https://www.cs.cmu.edu/~epxing/Class/10708-19/) *Course*
 * [The Unsupervised Reinforcement Learning Benchmark (UC Berkeley)](https://bair.berkeley.edu/blog/2021/12/15/unsupervised-rl/) *WebPage*
+* [Mathematics for Machine Learning (UC Berkeley)](https://gwthomas.github.io/docs/math4ml.pdf) *Paper*
 
 ## Deep Learning
 * [Deep Learning by Yann LeCun](https://atcold.github.io/pytorch-Deep-Learning/) *HTML Page*
