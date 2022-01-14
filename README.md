@@ -214,6 +214,7 @@
 * [Counterfactual Data-Fusion for Online Reinforcement Learners by Judea Pearl](https://ftp.cs.ucla.edu/pub/stat_ser/r471-reprint.pdf) *Paper*
 * [The Art and Science of Cause and Effect by Judea Pearl](http://bayes.cs.ucla.edu/BOOK-2K/causality2-epilogue.pdf) *Paper*
 * [Towards Causal Reinforcement Learning by Elias Bareinboim](https://crl.causalai.net/crl-icml20.pdf) *Slides*
+* [List of Causal Inference Papers from COGNITIVE SYSTEMS LABORATORY LAB (Judea Pearl)](http://bayes.cs.ucla.edu/csl_papers.html) *WebPage*
 
 ## Linear Algebra
 * [Introduction to Applied Linear Algebra Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/vmls.pdf) *Book*
