@@ -107,6 +107,7 @@
 * [Yet another backpropagation tutorial by Boaz Barak](https://windowsontheory.org/2020/11/03/yet-another-backpropagation-tutorial/) *WebPage*
 * [EINSUM IS ALL YOU NEED - EINSTEIN SUMMATION IN DEEP LEARNING](https://rockt.github.io/2018/04/30/einsum) *Blog*
 * [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://arxiv.org/ftp/arxiv/papers/2201/2201.00650.pdf) *Paper*
+* [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf) *Paper*
 
 
 ## Reinforcement Learning
