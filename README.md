@@ -251,7 +251,7 @@
 ## Statistics and Probability 
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12_toc.pdf) *Book*
 * [Statistics 210A: Theoretical Statistics (Fall 2021) at UC Berkeley](https://www.stat.berkeley.edu/~wfithian/courses/stat210a/) *Course*
- * [Topics within the Syllabus](https://www.stat.berkeley.edu/~wfithian/courses/stat210a/syllabus.pdf) *Paper*
+  * [Topics within the Syllabus](https://www.stat.berkeley.edu/~wfithian/courses/stat210a/syllabus.pdf) *Paper*
 * [Prob 140: Probability for Data Science](http://prob140.org/textbook/content/README.html) *HTML Page*
 * [The Language. Probabilistic Logic Programming](https://dtai.cs.kuleuven.be/problog/tutorial.html) *HTML Page*
 * [An Introduction to Probabilistic Programming](https://arxiv.org/pdf/1809.10756.pdf) *Paper*
