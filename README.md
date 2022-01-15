@@ -186,6 +186,7 @@
 * [Attention is all you need" implementation from scratch in PyTorch. A Twitter thread](https://twitter.com/abhi1thakur/status/1470406419786698761) *Twitter*
 * [CS224n: Natural Language Processing with Deep Learning (Stanford)](https://web.stanford.edu/class/cs224n/) *Course*
 * [Multi-head attention, GPT and BERT, Vision Transformer, and write these out in code by Misha Laskin](https://twitter.com/MishaLaskin/status/1479246928454037508)  *Twitter*
+* [CS224U: Natural Language Understanding | Spring 2021](https://www.youtube.com/watch?v=2w_qYPxuzeA&list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ&index=2&ab_channel=stanfordonline) *Course*
 
 ## Computer Vision
 * [CS 4476-B Computer Vision](https://www.cc.gatech.edu/~hays/compvision/) *Course*
