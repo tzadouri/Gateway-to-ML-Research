@@ -205,6 +205,7 @@
   * [Probability Divergences and Generative Models](https://www.youtube.com/watch?v=Qwy9wuzrqfU&ab_channel=AINTU-%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E6%8A%80%E8%A1%93%E6%9A%A8%E5%85%A8%E5%B9%85%E5%81%A5%E5%BA%B7%E7%85%A7%E8%AD%B7%E8%81%AF%E5%90%88%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83) *Video*
 * [Tutorial - What is a variational autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/) *WebPage* 
 * [CSC 2541: Differentiable Inference and Generative Models(Toronto)](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/) *Course*
+* [An Introduction to Autoencoders by Umberto Michelucci](https://arxiv.org/abs/2201.03898) *Paper*
 
 
 
