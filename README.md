@@ -190,6 +190,7 @@
 * [CS224U: Natural Language Understanding | Spring 2021](https://www.youtube.com/watch?v=2w_qYPxuzeA&list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ&index=2&ab_channel=stanfordonline) *Course*
 * [CS11-711 Advanced NLP by CMU](https://www.youtube.com/watch?v=pGC-QiNbuwA&list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6&index=1&ab_channel=GrahamNeubig) *Course*
 * [To Understand Language is to Understand Generalization by Eric Jang](https://evjang.com/2021/12/17/lang-generalization.html) *Blog*
+* [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/) *Book*
 
 ## Computer Vision
 * [CS 4476-B Computer Vision](https://www.cc.gatech.edu/~hays/compvision/) *Course*
