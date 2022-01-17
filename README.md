@@ -299,6 +299,7 @@
 * [21-122 Integration and Approximation(CMU)](https://www.math.cmu.edu/~handron/21_122/schedule.html) *Course*
 * [An invitation to General Algebra and Universal Constructions by George M. Bergman](https://math.berkeley.edu/~gbergman/245/3.0.pdf) *Book*
 * [WHAT IS GOOD MATHEMATICS? by Terence Tao](https://arxiv.org/pdf/math/0702396.pdf) *Paper*
+* [CALCULUS MADE EASY BY SILVANUS P. THOMPSON](http://calculusmadeeasy.org/) *HTML*
 
 ## Theoretical CS
 * [Introduction to Theoretical Computer Science](https://introtcs.org/public/) *HTML Page*
