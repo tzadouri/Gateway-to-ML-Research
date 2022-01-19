@@ -280,6 +280,7 @@
 * [Review of Probability Theory](http://cs229.stanford.edu/section/cs229-prob.pdf) *Paper*
 * [36-401 Modern Regression(CMU)](http://www.stat.cmu.edu/~larry/=stat401/) *Course*
 * [Regression, Fire, and Dangerous Things (1/3)](https://elevanth.org/blog/2021/06/15/regression-fire-and-dangerous-things-1-3/) *WebPage*
+* [Statistical Rethinking (2022 Edition)](https://github.com/rmcelreath/stat_rethinking_2022) *Github + Course*
 
 
 
