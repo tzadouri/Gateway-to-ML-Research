@@ -209,6 +209,7 @@
 * [Tutorial - What is a variational autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/) *WebPage* 
 * [CSC 2541: Differentiable Inference and Generative Models(Toronto)](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/) *Course*
 * [An Introduction to Autoencoders by Umberto Michelucci](https://arxiv.org/abs/2201.03898) *Paper*
+* [Regression, Fire, and Dangerous Things (3/3): Thinking Like a Probability Distribution](https://elevanth.org/blog/2021/06/29/regression-fire-and-dangerous-things-3-3/) *WebPage*
 
 
 
