@@ -210,6 +210,11 @@
 * [CSC 2541: Differentiable Inference and Generative Models(Toronto)](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/) *Course*
 * [An Introduction to Autoencoders by Umberto Michelucci](https://arxiv.org/abs/2201.03898) *Paper*
 * [Regression, Fire, and Dangerous Things (3/3): Thinking Like a Probability Distribution](https://elevanth.org/blog/2021/06/29/regression-fire-and-dangerous-things-3-3/) *WebPage*
+* [Generative or Discriminative? Getting the Best of Both Worlds](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/Bishop-Valencia-07.pdf) *Paper*
+* [On Discriminative vs. Generative classifiers: A comparison of logistic regression and naive Bayes](https://papers.nips.cc/paper/2001/file/7b7a53e239400a13bd6be6c91c4f6c4e-Paper.pdf) *Paper*
+* [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160.pdf) *Paper*
+* [Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/science.pdf) *Paper*
+* [Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf) *Paper*
 
 
 
