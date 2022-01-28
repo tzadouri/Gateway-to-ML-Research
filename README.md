@@ -404,4 +404,5 @@
 ## Blog
 * [Christopher Olah's Blog: Various DL Tutorials](https://colah.github.io/) *Blog*
 * [Jay Alammar: Visualizing machine learning one concept at a time](https://jalammar.github.io/) *Blog*
+* [A List of Most Theory Blogs](https://rjlipton.wpcomstaging.com/2022/01/26/a-list-of-most-theory-blogs/) *Blog*
 
