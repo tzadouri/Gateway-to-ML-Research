@@ -220,7 +220,7 @@
 * [Normalizing Flows by Adam Kosiorek](https://akosiorek.github.io/ml/2018/04/03/norm_flows.html) *Blog*
 * [Indtroduction to Normalizing Flows by Krzysztof Kolasinski](https://github.com/kmkolasinski/deep-learning-notes/blob/master/seminars/2018-09-Introduction-to-Normalizing-Flows/slides.pdf) *Slides*
 * [Awesome Normalizing Flows: A list of awesome resources for understanding and applying normalizing flows (NF)](https://github.com/janosh/awesome-normalizing-flows) *Github*
-* 
+
 
 
 
