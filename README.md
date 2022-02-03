@@ -216,6 +216,11 @@
 * [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160.pdf) *Paper*
 * [Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/science.pdf) *Paper*
 * [Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf) *Paper*
+* [Normalizing Flows Tutorial, Part 1: Distributions and Determinants](https://blog.evjang.com/2018/01/nf1.html) *Blog*
+* [Normalizing Flows by Adam Kosiorek](https://akosiorek.github.io/ml/2018/04/03/norm_flows.html) *Blog*
+* [Indtroduction to Normalizing Flows by Krzysztof Kolasinski](https://github.com/kmkolasinski/deep-learning-notes/blob/master/seminars/2018-09-Introduction-to-Normalizing-Flows/slides.pdf) *Slides*
+* [Awesome Normalizing Flows: A list of awesome resources for understanding and applying normalizing flows (NF)](https://github.com/janosh/awesome-normalizing-flows) *Github*
+* 
 
 
 
