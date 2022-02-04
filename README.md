@@ -372,6 +372,7 @@
 ## TensorFlow
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) *Github*
 * [Learn TensorFlow and deep learning, without a Ph.D by GOOGLE](https://cloud.google.com/blog/products/ai-machine-learning/learn-tensorflow-and-deep-learning-without-a-phd) *Video +Slides*
+* [Wrap up of Advent of Code 2021 in pure TensorFlow](https://pgaleone.eu/tensorflow/2022/01/21/advent-of-code-tensorflow-wrap-up/) *WebPage*
 
 ## Julia
 * [Parallel Computing and Scientific Machine Learning](https://www.youtube.com/watch?v=3IoqyXmAAkU&list=PLCAl7tjCwWyGjdzOOnlbGnVNZk0kB8VSa&ab_channel=ParallelComputingandScientificMachineLearning) *Video* 
