@@ -75,6 +75,7 @@
 * [Mathematics for Machine Learning (UC Berkeley)](https://gwthomas.github.io/docs/math4ml.pdf) *Paper*
 * [The Roadmap of Mathematics for Machine Learning](https://www.tivadardanka.com/blog/roadmap-of-mathematics-for-machine-learning) *Blog*
 * [Machine Learning: The Basics by Alexander Jung](https://arxiv.org/pdf/1805.05052.pdf) *Book*
+* [Learning from Data by Caltech (2012)](https://home.work.caltech.edu/telecourse.html) *Course*
 
 ## Deep Learning
 * [Deep Learning by Yann LeCun](https://atcold.github.io/pytorch-Deep-Learning/) *HTML Page*
