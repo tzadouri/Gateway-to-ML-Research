@@ -119,7 +119,7 @@
 * [Applications of Deep Neural Networks with Keras](https://arxiv.org/pdf/2009.05673.pdf) *Paper*
 * [Deep Learning for Molecules and Materials](https://dmol.pub/intro.html) *Blog*
 * [CS 7150: Deep Learning by Northeastern University](https://khoury.northeastern.edu/home/hand/teaching/cs7150-summer-2020/) *Course*
-* []() **
+* [18.408 Theoretical Foundations for Deep Learning by Ankur Moitra (MIT)](https://people.csail.mit.edu/moitra/408b.html) *https://people.csail.mit.edu/moitra/408b.html*
 
 
 ## Reinforcement Learning
