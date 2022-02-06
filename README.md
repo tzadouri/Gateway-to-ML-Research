@@ -116,6 +116,7 @@
 * [Graph neural networks tutorial in pytorch](https://github.com/urchade/graph-neural-nets) *Github*
 * [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478) *Paper*
 * [Applications of Deep Neural Networks with Keras](https://arxiv.org/pdf/2009.05673.pdf) *Paper*
+* [Deep Learning for Molecules and Materials](https://dmol.pub/intro.html) *Blog*
 
 
 ## Reinforcement Learning
@@ -199,6 +200,7 @@
 * [CS11-711 Advanced NLP by CMU](https://www.youtube.com/watch?v=pGC-QiNbuwA&list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6&index=1&ab_channel=GrahamNeubig) *Course*
 * [To Understand Language is to Understand Generalization by Eric Jang](https://evjang.com/2021/12/17/lang-generalization.html) *Blog*
 * [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/) *Book*
+* [Dodrio Exploring transformer models in your browser!](https://poloclub.github.io/dodrio/) *WebPage*
 
 ## Computer Vision
 * [CS 4476-B Computer Vision](https://www.cc.gatech.edu/~hays/compvision/) *Course*
