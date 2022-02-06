@@ -375,6 +375,7 @@
 * [Pytorch Tutorial](https://github.com/yunjey/pytorch-tutorial) *Github*
 * [PyTorch internals](http://blog.ezyang.com/2019/05/pytorch-internals/) *Post*
 * [PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll) *Github*
+* [PYTORCH LIGHTNING Tutorial](https://pytorch-lightning.readthedocs.io/en/latest/) *WebPage*
 
 ## TensorFlow
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) *Github*
