@@ -347,6 +347,7 @@
 * [15-859: Algorithms for Big Data by David Woodruff(CMU)](https://www.cs.cmu.edu/~dwoodruf/teaching/15859-fall20/index.html) *Course*
 * [CS271 RANDOMNESS & COMPUTATION (UC Berkeley)](https://people.eecs.berkeley.edu/~sinclair/cs271/s20.html) *Course*
 * [CS 270. Combinatorial Algorithms and Data Structures (UC Berkeley)](http://people.eecs.berkeley.edu/~prasad/spring2021.html) *Course*
+* [CS 224: Advanced Algorithms by Jelani Nelson](http://people.seas.harvard.edu/~minilek/cs224/fall14/lec.html) *Course*
 
 ## Scientific Computing
 * [Neuromatch Academy](https://academy.neuromatch.io/) *Web Page*
