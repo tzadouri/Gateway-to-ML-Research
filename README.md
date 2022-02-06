@@ -117,6 +117,7 @@
 * [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478) *Paper*
 * [Applications of Deep Neural Networks with Keras](https://arxiv.org/pdf/2009.05673.pdf) *Paper*
 * [Deep Learning for Molecules and Materials](https://dmol.pub/intro.html) *Blog*
+* [CS 7150: Deep Learning by Northeastern University](https://khoury.northeastern.edu/home/hand/teaching/cs7150-summer-2020/) *Course*
 
 
 ## Reinforcement Learning
