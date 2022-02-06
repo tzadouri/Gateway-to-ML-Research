@@ -78,6 +78,7 @@
 * [Learning from Data by Caltech (2012)](https://home.work.caltech.edu/telecourse.html) *Course*
 * [CS224W: Machine Learning with Graphs (Stanford)](https://web.stanford.edu/class/cs224w/) *Course*
 * [Algorithmic Aspects of Machine Learning by Ankur Moitra (MIT)](https://people.csail.mit.edu/moitra/docs/bookexv2.pdf) *Book*
+* [Submodularity In Machine Learning and Artificial Intelligence](https://arxiv.org/pdf/2202.00132.pdf) *Paper*
 
 ## Deep Learning
 * [Deep Learning by Yann LeCun](https://atcold.github.io/pytorch-Deep-Learning/) *HTML Page*
