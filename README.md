@@ -111,6 +111,7 @@
 * [Fit without fear: remarkable mathematical phenomena of deep learning through the prism of interpolation](https://arxiv.org/pdf/2105.14368.pdf) *Paper*
 * [Graph neural networks tutorial in pytorch](https://github.com/urchade/graph-neural-nets) *Github*
 * [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478) *Paper*
+* [Applications of Deep Neural Networks with Keras](https://arxiv.org/pdf/2009.05673.pdf) *Paper*
 
 
 ## Reinforcement Learning
