@@ -121,6 +121,7 @@
 * [Deep Learning for Molecules and Materials](https://dmol.pub/intro.html) *Blog*
 * [CS 7150: Deep Learning by Northeastern University](https://khoury.northeastern.edu/home/hand/teaching/cs7150-summer-2020/) *Course*
 * [18.408 Theoretical Foundations for Deep Learning by Ankur Moitra (MIT)](https://people.csail.mit.edu/moitra/408b.html) *https://people.csail.mit.edu/moitra/408b.html*
+* [Resources to help you learn and keep up-to-date with GNNs](https://twitter.com/omarsar0/status/1490276912601653248) *Tweet*
 
 
 ## Reinforcement Learning
