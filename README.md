@@ -335,6 +335,7 @@
 * [15-251 Great Ideas in Theoretical Computer Science(CMU)](https://www.cs.cmu.edu/~15251/schedule.html) *Course*
 * [Why Philosophers Should Care About Computational Complexity](https://arxiv.org/pdf/1108.1791.pdf) *Paper*
 * [Theoretical Computer Science Cheat Sheet](https://www.tug.org/texshowcase/cheat.pdf) *Paper*
+* [Essential Coding Theory](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf) *Book*
 
 ## Algorithms
 * [Design and Analysis of Algorithms: Blog by Rashid Bin Muhammad](https://www.personal.kent.edu/~rmuhamma/Algorithms/algorithm.html) *Web Page*
