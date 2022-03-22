@@ -120,8 +120,14 @@
 * [Applications of Deep Neural Networks with Keras](https://arxiv.org/pdf/2009.05673.pdf) *Paper*
 * [Deep Learning for Molecules and Materials](https://dmol.pub/intro.html) *Blog*
 * [CS 7150: Deep Learning by Northeastern University](https://khoury.northeastern.edu/home/hand/teaching/cs7150-summer-2020/) *Course*
-* [18.408 Theoretical Foundations for Deep Learning by Ankur Moitra (MIT)](https://people.csail.mit.edu/moitra/408b.html) *https://people.csail.mit.edu/moitra/408b.html*
+* [18.408 Theoretical Foundations for Deep Learning by Ankur Moitra (MIT)](https://people.csail.mit.edu/moitra/408b.html) *Course*
 * [Resources to help you learn and keep up-to-date with GNNs](https://twitter.com/omarsar0/status/1490276912601653248) *Tweet*
+* [awesome-equivariant-network](https://github.com/Chen-Cai-OSU/awesome-equivariant-network) *Github*
+* [Theoretical Foundations of Graph Neural Networks](https://www.youtube.com/watch?v=uF53xsT7mjc&ab_channel=PetarVeli%C4%8Dkovi%C4%87) *Video*
+* [GAT - Graph Attention Network (PyTorch)](https://github.com/gordicaleksa/pytorch-GAT) *Github*
+* [GDL Course](https://geometricdeeplearning.com/lectures/) *Course*
+* [Math Behind Graph Neural Networks](https://rish-16.github.io/posts/gnn-math/) *WebPage*
+* [CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/) *Course*
 
 
 ## Reinforcement Learning
