@@ -364,6 +364,7 @@
 * [CS271 RANDOMNESS & COMPUTATION (UC Berkeley)](https://people.eecs.berkeley.edu/~sinclair/cs271/s20.html) *Course*
 * [CS 270. Combinatorial Algorithms and Data Structures (UC Berkeley)](http://people.eecs.berkeley.edu/~prasad/spring2021.html) *Course*
 * [CS 224: Advanced Algorithms by Jelani Nelson](http://people.seas.harvard.edu/~minilek/cs224/fall14/lec.html) *Course*
+* [Composing Programs](http://www.composingprograms.com/) *HTML*
 
 ## Scientific Computing
 * [Neuromatch Academy](https://academy.neuromatch.io/) *Web Page*
