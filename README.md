@@ -127,7 +127,6 @@
 * [GAT - Graph Attention Network (PyTorch)](https://github.com/gordicaleksa/pytorch-GAT) *Github*
 * [GDL Course](https://geometricdeeplearning.com/lectures/) *Course*
 * [Math Behind Graph Neural Networks](https://rish-16.github.io/posts/gnn-math/) *WebPage*
-* [CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/) *Course*
 
 
 ## Reinforcement Learning
