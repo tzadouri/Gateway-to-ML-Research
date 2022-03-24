@@ -280,7 +280,6 @@
 * [EE 227C (Spring 2018) Convex Optimization and Approximation by Mortiz Hardt at UC Berkeley](https://ee227c.github.io/) *Course*
 * [Convex Optimization Overview](http://cs229.stanford.edu/section/cs229-cvxopt.pdf) *Paper*
 * [Recent Advances in Non-Convex Optimization and its Implications to Learning by Anima Anadkumar](http://tensorlab.cms.caltech.edu/users/anima/slides/icml2016-tutorial.pdf) *Slides*
-* [Convex Optimization Overview](http://cs229.stanford.edu/section/cs229-cvxopt.pdf) *Paper*
 * [ECE 236A: Linear Programming(UCLA)](http://www.seas.ucla.edu/~vandenbe/ee236a/ee236a.html) *Course*
 * [ECE 236B: Convex Opimization(UCLA)](http://www.seas.ucla.edu/~vandenbe/ee236b/ee236b.html) *Course*
 * [ECE 236C: Optimization methods for large-scale systems(UCLA)](http://www.seas.ucla.edu/~vandenbe/ee236c.html) *Course*
