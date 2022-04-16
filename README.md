@@ -213,6 +213,7 @@
 * [To Understand Language is to Understand Generalization by Eric Jang](https://evjang.com/2021/12/17/lang-generalization.html) *Blog*
 * [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/) *Book*
 * [Dodrio Exploring transformer models in your browser!](https://poloclub.github.io/dodrio/) *WebPage*
+* [NLP Course | For You](https://lena-voita.github.io/nlp_course.html#main_page_content) *WebPage*
 
 ## Computer Vision
 * [CS 4476-B Computer Vision](https://www.cc.gatech.edu/~hays/compvision/) *Course*
