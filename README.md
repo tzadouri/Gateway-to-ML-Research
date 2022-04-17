@@ -9,6 +9,7 @@
 * [Computer Vision](#computer-vision)
 * [Generative Modeling](#generative-modeling)
 * [Causal Inference](#causal-inference)
+* [Graph Neural Networks](#graph-neural-networks)
 <br>
 
 * [Linear Algebra](#linear-algebra)
@@ -257,6 +258,10 @@
 * [Towards Causal Reinforcement Learning by Elias Bareinboim](https://crl.causalai.net/crl-icml20.pdf) *Slides*
 * [List of Causal Inference Papers from COGNITIVE SYSTEMS LABORATORY LAB (Judea Pearl)](http://bayes.cs.ucla.edu/csl_papers.html) *WebPage*
 * [Machine Knowledge: Creation and Curation of Comprehensive Knowledge Bases](https://arxiv.org/pdf/2009.11564.pdf) *Paper*
+
+
+## Graph Neural Networks
+* []() **
 
 ## Linear Algebra
 * [Introduction to Applied Linear Algebra Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/vmls.pdf) *Book*
