@@ -254,7 +254,17 @@
 
 
 ## Graph Neural Networks
-* []() **
+* [Resources to help you learn and keep up-to-date with GNNs](https://twitter.com/omarsar0/status/1490276912601653248) *Tweet*
+* [awesome-equivariant-network](https://github.com/Chen-Cai-OSU/awesome-equivariant-network) *Github*
+* [Theoretical Foundations of Graph Neural Networks](https://www.youtube.com/watch?v=uF53xsT7mjc&ab_channel=PetarVeli%C4%8Dkovi%C4%87) *Video*
+* [GAT - Graph Attention Network (PyTorch)](https://github.com/gordicaleksa/pytorch-GAT) *Github*
+* [GDL Course](https://geometricdeeplearning.com/lectures/) *Course*
+* [Math Behind Graph Neural Networks](https://rish-16.github.io/posts/gnn-math/) *WebPage*
+* [Graph neural networks tutorial in pytorch](https://github.com/urchade/graph-neural-nets) *Github*
+* [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478) *Paper*
+* [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf) *Paper*
+
+
 
 ## Linear Algebra
 * [Introduction to Applied Linear Algebra Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/vmls.pdf) *Book*
