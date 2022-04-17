@@ -263,6 +263,10 @@
 * [Graph neural networks tutorial in pytorch](https://github.com/urchade/graph-neural-nets) *Github*
 * [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478) *Paper*
 * [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf) *Paper*
+* [Graph Neural Networks: Models and Applications](https://cse.msu.edu/~mayao4/tutorials/aaai2020/) *Slides*
+* [Graph Representation Learning Book William L. Hamilton, McGill University Notes](https://www.cs.mcgill.ca/~wlh/grl_book/) *Course*
+* [Stanford CS224W TA Notes](https://snap-stanford.github.io/cs224w-notes/) *WebPage*
+* [Tutorial 7: Graph Neural Networks from UvA Deep Learning Course](https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial7/GNN_overview.ipynb#scrollTo=0hjVmg-CPH4L) *Google Colab*
 
 
 
