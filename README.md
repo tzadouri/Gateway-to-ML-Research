@@ -77,9 +77,9 @@
 * [The Roadmap of Mathematics for Machine Learning](https://www.tivadardanka.com/blog/roadmap-of-mathematics-for-machine-learning) *Blog*
 * [Machine Learning: The Basics by Alexander Jung](https://arxiv.org/pdf/1805.05052.pdf) *Book*
 * [Learning from Data by Caltech (2012)](https://home.work.caltech.edu/telecourse.html) *Course*
-* [CS224W: Machine Learning with Graphs (Stanford)](https://web.stanford.edu/class/cs224w/) *Course*
 * [Algorithmic Aspects of Machine Learning by Ankur Moitra (MIT)](https://people.csail.mit.edu/moitra/docs/bookexv2.pdf) *Book*
 * [Submodularity In Machine Learning and Artificial Intelligence](https://arxiv.org/pdf/2202.00132.pdf) *Paper*
+* [Harvard CS 229br: Advanced Topics in the theory of machine learning](https://boazbk.github.io/mltheoryseminar/cs229br) *Course*
 
 ## Deep Learning
 * [Deep Learning by Yann LeCun](https://atcold.github.io/pytorch-Deep-Learning/) *HTML Page*
