@@ -266,7 +266,7 @@
 * [Graph Neural Networks: Models and Applications](https://cse.msu.edu/~mayao4/tutorials/aaai2020/) *Slides*
 * [Graph Representation Learning Book William L. Hamilton, McGill University Notes](https://www.cs.mcgill.ca/~wlh/grl_book/) *Course*
 * [Stanford CS224W TA Notes](https://snap-stanford.github.io/cs224w-notes/) *WebPage*
-* [Tutorial 7: Graph Neural Networks from UvA Deep Learning Course](https://colab.research.google.com/github/phlippe/uvadlc_notebooks/blob/master/docs/tutorial_notebooks/tutorial7/GNN_overview.ipynb#scrollTo=0hjVmg-CPH4L) *Google Colab*
+* [Tutorial 7: Graph Neural Networks from UvA Deep Learning Course](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial7/GNN_overview.html) *Web Page*
 
 
 
