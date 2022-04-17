@@ -114,20 +114,13 @@
 * [Yet another backpropagation tutorial by Boaz Barak](https://windowsontheory.org/2020/11/03/yet-another-backpropagation-tutorial/) *WebPage*
 * [EINSUM IS ALL YOU NEED - EINSTEIN SUMMATION IN DEEP LEARNING](https://rockt.github.io/2018/04/30/einsum) *Blog*
 * [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://arxiv.org/ftp/arxiv/papers/2201/2201.00650.pdf) *Paper*
-* [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf) *Paper*
 * [Fit without fear: remarkable mathematical phenomena of deep learning through the prism of interpolation](https://arxiv.org/pdf/2105.14368.pdf) *Paper*
-* [Graph neural networks tutorial in pytorch](https://github.com/urchade/graph-neural-nets) *Github*
-* [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478) *Paper*
 * [Applications of Deep Neural Networks with Keras](https://arxiv.org/pdf/2009.05673.pdf) *Paper*
 * [Deep Learning for Molecules and Materials](https://dmol.pub/intro.html) *Blog*
 * [CS 7150: Deep Learning by Northeastern University](https://khoury.northeastern.edu/home/hand/teaching/cs7150-summer-2020/) *Course*
 * [18.408 Theoretical Foundations for Deep Learning by Ankur Moitra (MIT)](https://people.csail.mit.edu/moitra/408b.html) *Course*
-* [Resources to help you learn and keep up-to-date with GNNs](https://twitter.com/omarsar0/status/1490276912601653248) *Tweet*
-* [awesome-equivariant-network](https://github.com/Chen-Cai-OSU/awesome-equivariant-network) *Github*
-* [Theoretical Foundations of Graph Neural Networks](https://www.youtube.com/watch?v=uF53xsT7mjc&ab_channel=PetarVeli%C4%8Dkovi%C4%87) *Video*
-* [GAT - Graph Attention Network (PyTorch)](https://github.com/gordicaleksa/pytorch-GAT) *Github*
-* [GDL Course](https://geometricdeeplearning.com/lectures/) *Course*
-* [Math Behind Graph Neural Networks](https://rish-16.github.io/posts/gnn-math/) *WebPage*
+
+
 
 
 ## Reinforcement Learning
