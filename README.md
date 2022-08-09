@@ -38,6 +38,7 @@
 
 * [Mata-Resources](#meta-resources)
 * [Blog](#blog)
+* [Newsletter](#newsletter)
 
 ## Machine Learning
 * [Mathematics for Machine Learning](https://mml-book.github.io/) *Book*
