@@ -451,6 +451,12 @@
 * [Jay Alammar: Visualizing machine learning one concept at a time](https://jalammar.github.io/) *Blog*
 * [A List of Most Theory Blogs](https://rjlipton.wpcomstaging.com/2022/01/26/a-list-of-most-theory-blogs/) *Blog*
 * [Google AI Blog](https://ai.googleblog.com/) *Blog*
+* [OpenAI Blog](https://openai.com/blog/) *Blog*
+* [Twitter Blog](https://blog.twitter.com/engineering/en_us) *Blog*
+* [ML @Berkeley](https://ml.berkeley.edu/blog/) *Blog*
+* [DeepMind Blog](https://www.deepmind.com/blog) *Blog*
+
+
 
 ## Newsletter
 * [Machine Learning Ops Roundup](https://mlopsroundup.substack.com/) *Newsletter*
