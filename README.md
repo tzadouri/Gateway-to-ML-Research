@@ -452,13 +452,13 @@
 * [A List of Most Theory Blogs](https://rjlipton.wpcomstaging.com/2022/01/26/a-list-of-most-theory-blogs/) *Blog*
 
 ## Newsletter
-*[Machine Learning Ops Roundup](https://mlopsroundup.substack.com/) *Newsletter*
-*[Deep Learning Weekly](https://www.deeplearningweekly.com/) *Newsletter*
-*[The Gradient](https://thegradientpub.substack.com/s/the-update) *Newsletter*
-*[IMPORT AI](https://jack-clark.net/) *Newsletter*
-*[Paper with Code Newsletter](https://paperswithcode.com/newsletter) *Newsletter*
-*[NLP News By Sebastian Ruder](https://newsletter.ruder.io/) *Newsletter*
-*[Davis Summarizes Papers](https://dblalock.substack.com/) *Newsletter*
+* [Machine Learning Ops Roundup](https://mlopsroundup.substack.com/) *Newsletter*
+* [Deep Learning Weekly](https://www.deeplearningweekly.com/) *Newsletter*
+* [The Gradient](https://thegradientpub.substack.com/s/the-update) *Newsletter*
+* [IMPORT AI](https://jack-clark.net/) *Newsletter*
+* [Paper with Code Newsletter](https://paperswithcode.com/newsletter) *Newsletter*
+* [NLP News By Sebastian Ruder](https://newsletter.ruder.io/) *Newsletter*
+* [Davis Summarizes Papers](https://dblalock.substack.com/) *Newsletter*
 
 
 
