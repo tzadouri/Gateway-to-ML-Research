@@ -81,6 +81,7 @@
 * [Algorithmic Aspects of Machine Learning by Ankur Moitra (MIT)](https://people.csail.mit.edu/moitra/docs/bookexv2.pdf) *Book*
 * [Submodularity In Machine Learning and Artificial Intelligence](https://arxiv.org/pdf/2202.00132.pdf) *Paper*
 * [Harvard CS 229br: Advanced Topics in the theory of machine learning](https://boazbk.github.io/mltheoryseminar/cs229br) *Course*
+* [Harvard CS197: AI Research Experiences](https://www.cs197.seas.harvard.edu/) *Course*
 
 ## Deep Learning
 * [Deep Learning by Yann LeCun](https://atcold.github.io/pytorch-Deep-Learning/) *HTML Page*
